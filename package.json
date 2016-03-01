@@ -1,0 +1,41 @@
+{
+  "name": "git-lint-emacs",
+  "description": "A set of commit message rules followed in the emacs community",
+  "version": "0.1.0",
+  "year": "2016",
+  "homepage": "https://github.com/BenjaminVanRyseghem/git-lint-emacs",
+  "author": {
+    "name": "Benjamin Van Ryseghem",
+    "email": "benjamin.vanryseghem@gmail.com",
+    "url": "http://benjamin.vanryseghem.com"
+  },
+  "contributors": [
+    {
+      "name": "Benjamin Van Ryseghem",
+      "email": "benjamin.vanryseghem@gmail.com",
+      "url": "https://benjamin.vanryseghem.com"
+    }
+  ],
+  "license": "GPL-3.0",
+  "licenseUrl": "http://www.gnu.org/licenses/gpl-3.0.en.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BenjaminVanRyseghem/git-lint-emacs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenjaminVanRyseghem/git-lint-emacs/issues"
+  },
+  "licenses": [
+    {
+      "type": "GPL-3.0",
+      "url": "https://github.com/BenjaminVanRyseghem/git-lint-emacs/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "cli",
+    "command line",
+    "git",
+    "linter"
+  ],
+  "main": "rules.js"
+}
